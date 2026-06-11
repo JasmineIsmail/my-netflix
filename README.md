@@ -8,7 +8,7 @@ A responsive, feature-rich front-end movie listing application built with **Reac
 ---
 
 ## 🚀 Live Demo & Hosting
-* **Live Link:** `[Insert your Firebase/Vercel deployment link here]`
+* **Live Link:**  https://my-netflix-jasmine.web.app
 * **Tech Stack:** React.js, Redux Toolkit, React Router v6, Tailwind CSS, Firebase Auth, Gemini AI API, TMDB API.
 
 ---
@@ -50,6 +50,6 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-   cd your-repo-name  
+   git clone [https://github.com/JasmineIsmail/my-netflix.git]
+   cd my-netflix
 >>>>>>> e48b56ffdc8df28c20ceacb07d8d2fb66ce07cdd
