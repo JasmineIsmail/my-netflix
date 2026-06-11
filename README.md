@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-rafce :  React Arrow Function Component Export
+
 =======
 # 🎬 my-netflix : Netflix clone with AI Search
 
@@ -52,4 +51,4 @@ To run this project locally, follow these steps:
    ```bash
    git clone [https://github.com/JasmineIsmail/my-netflix.git]
    cd my-netflix
->>>>>>> e48b56ffdc8df28c20ceacb07d8d2fb66ce07cdd
+
